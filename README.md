@@ -9,6 +9,7 @@ This project contains many bugs as of now, still in development stage. But you c
 
 ### Prerequisites
 
+[![Generic badge](https://img.shields.io/badge/<Python>-<TensorFlow>-<Orange>.svg)](https://shields.io/)
  [![Python] 
 [![Jupyter Notebook]
 [![Tensorflow]
