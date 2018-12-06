@@ -9,10 +9,10 @@ This project contains many bugs as of now, still in development stage. But you c
 
 ### Prerequisites
 
-[![Generic badge](https://img.shields.io/badge/<Python>-<TensorFlow>-<Orange>.svg)](https://shields.io/)
- [![Python] 
-[![Jupyter Notebook]
-[![Tensorflow]
+[![Generic badge](https://img.shields.io/badge/Python-TensorFlow-Orange.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Python-Numpy-Orange.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Python-Pandas-Orange.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Python-Jupyter_Notebook-Orange.svg)](https://shields.io/)
 
 
 ## Built With
