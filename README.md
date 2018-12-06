@@ -25,7 +25,8 @@ This project contains many bugs as of now, still in development stage. But you c
 ## Authors
 
 * **Kushal Sharma** - *Machine Learning/Deep Learning | Python* - [Kushal Sharma](https://github.com/kushalshm1)
-* **Ayush Singh Chauhan** - *NodeJs, Apache Kafka, Microsoft Azure | Python* - [Ayush Singh Chauhan](https://github.com/heyAyushh)
+* **Ayush Singh Chauhan** - *NodeJs, Apache Kafka, Microsoft Azure* - [Ayush Singh Chauhan](https://github.com/heyAyushh)
+* **Mohit Joher** - *Arduino, Electronics, IOT, Communication Devices | Processing, Python* - [Mohit Joher](https://github.com/johermohit)
 
 ## Acknowledgments
 
